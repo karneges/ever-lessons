@@ -1,0 +1,1338 @@
+{
+  "map": {
+    "0a64694a998d75759aaea5d8acfb6cff561eda13a2a034dfae4e6131308e4007": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 320
+      },
+      "16": {
+        "filename": "SimpleAuction.code",
+        "line": 321
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 322
+      },
+      "40": {
+        "filename": "SimpleAuction.code",
+        "line": 323
+      },
+      "56": {
+        "filename": "SimpleAuction.code",
+        "line": 324
+      },
+      "72": {
+        "filename": "SimpleAuction.code",
+        "line": 325
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 328
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 329
+      },
+      "104": {
+        "filename": "SimpleAuction.code",
+        "line": 330
+      },
+      "120": {
+        "filename": "SimpleAuction.code",
+        "line": 333
+      },
+      "136": {
+        "filename": "SimpleAuction.code",
+        "line": 334
+      },
+      "144": {
+        "filename": "SimpleAuction.code",
+        "line": 335
+      },
+      "160": {
+        "filename": "SimpleAuction.code",
+        "line": 336
+      },
+      "176": {
+        "filename": "SimpleAuction.code",
+        "line": 337
+      },
+      "192": {
+        "filename": "SimpleAuction.code",
+        "line": 338
+      },
+      "200": {
+        "filename": "SimpleAuction.code",
+        "line": 339
+      },
+      "216": {
+        "filename": "SimpleAuction.code",
+        "line": 340
+      },
+      "224": {
+        "filename": "SimpleAuction.code",
+        "line": 341
+      },
+      "240": {
+        "filename": "SimpleAuction.code",
+        "line": 342
+      },
+      "248": {
+        "filename": "SimpleAuction.code",
+        "line": 343
+      },
+      "256": {
+        "filename": "SimpleAuction.code",
+        "line": 344
+      },
+      "272": {
+        "filename": "SimpleAuction.code",
+        "line": 345
+      },
+      "280": {
+        "filename": "SimpleAuction.code",
+        "line": 346
+      },
+      "288": {
+        "filename": "SimpleAuction.code",
+        "line": 348
+      },
+      "296": {
+        "filename": "SimpleAuction.code",
+        "line": 349
+      },
+      "304": {
+        "filename": "SimpleAuction.code",
+        "line": 350
+      },
+      "320": {
+        "filename": "SimpleAuction.code",
+        "line": 352
+      },
+      "328": {
+        "filename": "SimpleAuction.code",
+        "line": 353
+      },
+      "344": {
+        "filename": "SimpleAuction.code",
+        "line": 354
+      },
+      "360": {
+        "filename": "SimpleAuction.code",
+        "line": 356
+      },
+      "368": {
+        "filename": "SimpleAuction.code",
+        "line": 357
+      },
+      "384": {
+        "filename": "SimpleAuction.code",
+        "line": 358
+      },
+      "392": {
+        "filename": "SimpleAuction.code",
+        "line": 359
+      },
+      "408": {
+        "filename": "SimpleAuction.code",
+        "line": 361
+      },
+      "416": {
+        "filename": "SimpleAuction.code",
+        "line": 362
+      },
+      "432": {
+        "filename": "SimpleAuction.code",
+        "line": 363
+      },
+      "440": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "456": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "464": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "472": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "496": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "536": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "544": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "584": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "592": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "600": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "616": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "632": {
+        "filename": "SimpleAuction.code",
+        "line": 365
+      },
+      "648": {
+        "filename": "SimpleAuction.code",
+        "line": 366
+      },
+      "656": {
+        "filename": "SimpleAuction.code",
+        "line": 367
+      },
+      "672": {
+        "filename": "SimpleAuction.code",
+        "line": 368
+      },
+      "680": {
+        "filename": "SimpleAuction.code",
+        "line": 369
+      },
+      "696": {
+        "filename": "SimpleAuction.code",
+        "line": 370
+      },
+      "712": {
+        "filename": "SimpleAuction.code",
+        "line": 371
+      },
+      "720": {
+        "filename": "SimpleAuction.code",
+        "line": 372
+      },
+      "736": {
+        "filename": "SimpleAuction.code",
+        "line": 375
+      }
+    },
+    "14a8811a59d68420ef38be6acf3014aacbe84a31fcfbb05c56b7a0205157345f": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 116
+      },
+      "8": {
+        "filename": "SimpleAuction.code",
+        "line": 117
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 118
+      },
+      "48": {
+        "filename": "SimpleAuction.code",
+        "line": 119
+      },
+      "64": {
+        "filename": "SimpleAuction.code",
+        "line": 120
+      },
+      "72": {
+        "filename": "SimpleAuction.code",
+        "line": 121
+      },
+      "88": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 40
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 127
+      },
+      "112": {
+        "filename": "SimpleAuction.code",
+        "line": 130
+      },
+      "120": {
+        "filename": "SimpleAuction.code",
+        "line": 131
+      },
+      "136": {
+        "filename": "SimpleAuction.code",
+        "line": 132
+      },
+      "144": {
+        "filename": "SimpleAuction.code",
+        "line": 133
+      },
+      "152": {
+        "filename": "SimpleAuction.code",
+        "line": 134
+      },
+      "168": {
+        "filename": "SimpleAuction.code",
+        "line": 135
+      },
+      "184": {
+        "filename": "SimpleAuction.code",
+        "line": 136
+      },
+      "192": {
+        "filename": "SimpleAuction.code",
+        "line": 137
+      },
+      "200": {
+        "filename": "SimpleAuction.code",
+        "line": 138
+      },
+      "208": {
+        "filename": "SimpleAuction.code",
+        "line": 139
+      },
+      "232": {
+        "filename": "SimpleAuction.code",
+        "line": 140
+      },
+      "240": {
+        "filename": "SimpleAuction.code",
+        "line": 141
+      },
+      "248": {
+        "filename": "SimpleAuction.code",
+        "line": 142
+      },
+      "272": {
+        "filename": "SimpleAuction.code",
+        "line": 143
+      },
+      "288": {
+        "filename": "SimpleAuction.code",
+        "line": 144
+      },
+      "296": {
+        "filename": "SimpleAuction.code",
+        "line": 145
+      },
+      "344": {
+        "filename": "SimpleAuction.code",
+        "line": 146
+      },
+      "360": {
+        "filename": "SimpleAuction.code",
+        "line": 147
+      },
+      "376": {
+        "filename": "SimpleAuction.code",
+        "line": 148
+      },
+      "384": {
+        "filename": "SimpleAuction.code",
+        "line": 149
+      },
+      "400": {
+        "filename": "SimpleAuction.code",
+        "line": 150
+      },
+      "408": {
+        "filename": "SimpleAuction.code",
+        "line": 151
+      },
+      "416": {
+        "filename": "SimpleAuction.code",
+        "line": 152
+      },
+      "432": {
+        "filename": "SimpleAuction.code",
+        "line": 153
+      },
+      "440": {
+        "filename": "SimpleAuction.code",
+        "line": 154
+      },
+      "448": {
+        "filename": "SimpleAuction.code",
+        "line": 155
+      },
+      "456": {
+        "filename": "SimpleAuction.code",
+        "line": 156
+      },
+      "472": {
+        "filename": "SimpleAuction.code",
+        "line": 158
+      },
+      "480": {
+        "filename": "SimpleAuction.code",
+        "line": 159
+      },
+      "496": {
+        "filename": "SimpleAuction.code",
+        "line": 161
+      },
+      "504": {
+        "filename": "SimpleAuction.code",
+        "line": 162
+      },
+      "520": {
+        "filename": "SimpleAuction.code",
+        "line": 165
+      }
+    },
+    "1ec0bec1ddfa2a9d5fe2a7a8af2e16c55ff56efc307d7981b79b2920be1cba07": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 245
+      },
+      "16": {
+        "filename": "SimpleAuction.code",
+        "line": 246
+      },
+      "32": {
+        "filename": "SimpleAuction.code",
+        "line": 247
+      },
+      "48": {
+        "filename": "SimpleAuction.code",
+        "line": 248
+      },
+      "64": {
+        "filename": "SimpleAuction.code",
+        "line": 249
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 250
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 251
+      },
+      "104": {
+        "filename": "SimpleAuction.code",
+        "line": 252
+      },
+      "120": {
+        "filename": "SimpleAuction.code",
+        "line": 253
+      },
+      "136": {
+        "filename": "SimpleAuction.code",
+        "line": 254
+      },
+      "152": {
+        "filename": "SimpleAuction.code",
+        "line": 255
+      },
+      "168": {
+        "filename": "SimpleAuction.code",
+        "line": 256
+      },
+      "184": {
+        "filename": "SimpleAuction.code",
+        "line": 257
+      },
+      "200": {
+        "filename": "SimpleAuction.code",
+        "line": 258
+      },
+      "208": {
+        "filename": "SimpleAuction.code",
+        "line": 259
+      },
+      "224": {
+        "filename": "SimpleAuction.code",
+        "line": 260
+      },
+      "232": {
+        "filename": "SimpleAuction.code",
+        "line": 261
+      },
+      "240": {
+        "filename": "SimpleAuction.code",
+        "line": 262
+      },
+      "248": {
+        "filename": "SimpleAuction.code",
+        "line": 263
+      },
+      "264": {
+        "filename": "SimpleAuction.code",
+        "line": 264
+      },
+      "272": {
+        "filename": "SimpleAuction.code",
+        "line": 265
+      },
+      "280": {
+        "filename": "SimpleAuction.code",
+        "line": 266
+      }
+    },
+    "4748e164302a0ab72235caec262e306cf87fea108126cb1a4e37292a93139b15": {
+      "0": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 41
+      },
+      "16": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 42
+      },
+      "32": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 43
+      }
+    },
+    "4afd48fa6c24e942d8c8b6ee777f8800828e8d235f34fa378501aa441231aae9": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 29
+      },
+      "8": {
+        "filename": "SimpleAuction.code",
+        "line": 30
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 31
+      },
+      "48": {
+        "filename": "SimpleAuction.code",
+        "line": 32
+      },
+      "64": {
+        "filename": "SimpleAuction.code",
+        "line": 33
+      },
+      "72": {
+        "filename": "SimpleAuction.code",
+        "line": 34
+      },
+      "88": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 28
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 40
+      },
+      "112": {
+        "filename": "SimpleAuction.code",
+        "line": 43
+      },
+      "120": {
+        "filename": "SimpleAuction.code",
+        "line": 44
+      },
+      "136": {
+        "filename": "SimpleAuction.code",
+        "line": 47
+      }
+    },
+    "4c4fd05c09b2bccccf53e8e8a3604661d9cce6415c775031061e556bca3ec8f4": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 177
+      },
+      "16": {
+        "filename": "SimpleAuction.code",
+        "line": 178
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 179
+      },
+      "40": {
+        "filename": "SimpleAuction.code",
+        "line": 180
+      },
+      "56": {
+        "filename": "SimpleAuction.code",
+        "line": 181
+      },
+      "72": {
+        "filename": "SimpleAuction.code",
+        "line": 182
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 183
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 184
+      },
+      "112": {
+        "filename": "SimpleAuction.code",
+        "line": 185
+      },
+      "128": {
+        "filename": "SimpleAuction.code",
+        "line": 186
+      },
+      "136": {
+        "filename": "SimpleAuction.code",
+        "line": 187
+      },
+      "144": {
+        "filename": "SimpleAuction.code",
+        "line": 188
+      },
+      "152": {
+        "filename": "SimpleAuction.code",
+        "line": 189
+      },
+      "168": {
+        "filename": "SimpleAuction.code",
+        "line": 190
+      },
+      "184": {
+        "filename": "SimpleAuction.code",
+        "line": 191
+      },
+      "192": {
+        "filename": "SimpleAuction.code",
+        "line": 192
+      },
+      "208": {
+        "filename": "SimpleAuction.code",
+        "line": 193
+      },
+      "216": {
+        "filename": "SimpleAuction.code",
+        "line": 194
+      },
+      "224": {
+        "filename": "SimpleAuction.code",
+        "line": 195
+      },
+      "240": {
+        "filename": "SimpleAuction.code",
+        "line": 196
+      },
+      "256": {
+        "filename": "SimpleAuction.code",
+        "line": 197
+      },
+      "272": {
+        "filename": "SimpleAuction.code",
+        "line": 198
+      },
+      "288": {
+        "filename": "SimpleAuction.code",
+        "line": 199
+      },
+      "304": {
+        "filename": "SimpleAuction.code",
+        "line": 200
+      }
+    },
+    "54f40852d604b93c6ea6fde546b7a7a9bef459f04b98d160a6b5d9c17cd1d05e": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 208
+      },
+      "8": {
+        "filename": "SimpleAuction.code",
+        "line": 209
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 210
+      },
+      "32": {
+        "filename": "SimpleAuction.code",
+        "line": 211
+      },
+      "48": {
+        "filename": "SimpleAuction.code",
+        "line": 212
+      },
+      "56": {
+        "filename": "SimpleAuction.code",
+        "line": 213
+      },
+      "64": {
+        "filename": "SimpleAuction.code",
+        "line": 214
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 215
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 216
+      },
+      "112": {
+        "filename": "SimpleAuction.code",
+        "line": 217
+      },
+      "120": {
+        "filename": "SimpleAuction.code",
+        "line": 218
+      },
+      "144": {
+        "filename": "SimpleAuction.code",
+        "line": 220
+      },
+      "152": {
+        "filename": "SimpleAuction.code",
+        "line": 221
+      },
+      "160": {
+        "filename": "SimpleAuction.code",
+        "line": 222
+      },
+      "168": {
+        "filename": "SimpleAuction.code",
+        "line": 223
+      },
+      "176": {
+        "filename": "SimpleAuction.code",
+        "line": 226
+      },
+      "184": {
+        "filename": "SimpleAuction.code",
+        "line": 227
+      },
+      "200": {
+        "filename": "SimpleAuction.code",
+        "line": 228
+      },
+      "216": {
+        "filename": "SimpleAuction.code",
+        "line": 229
+      },
+      "232": {
+        "filename": "SimpleAuction.code",
+        "line": 230
+      },
+      "248": {
+        "filename": "SimpleAuction.code",
+        "line": 231
+      },
+      "264": {
+        "filename": "SimpleAuction.code",
+        "line": 232
+      },
+      "280": {
+        "filename": "SimpleAuction.code",
+        "line": 233
+      },
+      "296": {
+        "filename": "SimpleAuction.code",
+        "line": 234
+      },
+      "312": {
+        "filename": "SimpleAuction.code",
+        "line": 235
+      },
+      "336": {
+        "filename": "SimpleAuction.code",
+        "line": 236
+      },
+      "352": {
+        "filename": "SimpleAuction.code",
+        "line": 237
+      },
+      "360": {
+        "filename": "SimpleAuction.code",
+        "line": 238
+      }
+    },
+    "61368a935f20e4edc0a01a3746d96ac5aa4f2353cc7387e56f98184ccd1e1d92": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 326
+      }
+    },
+    "6fbb1f84138a9ce0f1877b69cb1da47df2d93b362d566f74b9efa3166a4a567e": {
+      "0": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "16": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "32": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "40": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "56": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "72": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "80": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "88": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 29
+      },
+      "112": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 30
+      },
+      "120": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 30
+      },
+      "136": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 30
+      },
+      "144": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 30
+      },
+      "160": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 30
+      },
+      "176": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 30
+      },
+      "184": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 30
+      },
+      "208": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 32
+      },
+      "224": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 32
+      },
+      "240": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 32
+      },
+      "248": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 32
+      },
+      "264": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 32
+      },
+      "280": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "296": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "312": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "328": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "344": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "352": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "376": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "384": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "392": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "408": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "424": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "440": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "448": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "456": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 33
+      },
+      "472": {
+        "filename": "SimpleAuction.code",
+        "line": 92
+      },
+      "480": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 36
+      },
+      "496": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 36
+      },
+      "504": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 36
+      },
+      "520": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 36
+      },
+      "528": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 36
+      },
+      "544": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 36
+      },
+      "560": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "568": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "584": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "592": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "608": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "768": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "776": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "784": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "792": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "808": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "816": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      },
+      "824": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 37
+      }
+    },
+    "73867e37ec1ffb9ecb087a37d71892215b0b805a73c127da219a28729084e2e0": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "7a4088d6b74af80b5b45e8a171a4e2066472cc3790be09b428b572df975e5241": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 378
+      },
+      "8": {
+        "filename": "SimpleAuction.code",
+        "line": 379
+      },
+      "56": {
+        "filename": "SimpleAuction.code",
+        "line": 380
+      },
+      "64": {
+        "filename": "SimpleAuction.code",
+        "line": 381
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 384
+      },
+      "88": {
+        "filename": "SimpleAuction.code",
+        "line": 385
+      },
+      "136": {
+        "filename": "SimpleAuction.code",
+        "line": 386
+      },
+      "144": {
+        "filename": "SimpleAuction.code",
+        "line": 387
+      },
+      "160": {
+        "filename": "SimpleAuction.code",
+        "line": 390
+      },
+      "168": {
+        "filename": "SimpleAuction.code",
+        "line": 391
+      },
+      "216": {
+        "filename": "SimpleAuction.code",
+        "line": 392
+      },
+      "224": {
+        "filename": "SimpleAuction.code",
+        "line": 393
+      }
+    },
+    "992e566710d28fcb808bef4e62cbb52a4ee6348587d376e1641825defb2ee5dd": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 203
+      },
+      "16": {
+        "filename": "SimpleAuction.code",
+        "line": 204
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 205
+      },
+      "40": {
+        "filename": "SimpleAuction.code",
+        "line": 206
+      },
+      "56": {
+        "filename": "SimpleAuction.code",
+        "line": 207
+      },
+      "72": {
+        "filename": "SimpleAuction.code",
+        "line": 240
+      }
+    },
+    "c5e43074bc66b0e26fffe11b383aa8591743d077fa33b4750520df2a946ac789": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "SimpleAuction.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "SimpleAuction.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "SimpleAuction.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "SimpleAuction.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 12
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 13
+      },
+      "112": {
+        "filename": "SimpleAuction.code",
+        "line": 14
+      },
+      "120": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 23
+      },
+      "136": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 24
+      },
+      "144": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 24
+      },
+      "160": {
+        "filename": "../contracts/SimpleAuction.tsol",
+        "line": 25
+      },
+      "176": {
+        "filename": "SimpleAuction.code",
+        "line": 23
+      },
+      "192": {
+        "filename": "SimpleAuction.code",
+        "line": 26
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 269
+      },
+      "16": {
+        "filename": "SimpleAuction.code",
+        "line": 270
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 271
+      },
+      "40": {
+        "filename": "SimpleAuction.code",
+        "line": 272
+      },
+      "56": {
+        "filename": "SimpleAuction.code",
+        "line": 273
+      },
+      "64": {
+        "filename": "SimpleAuction.code",
+        "line": 274
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 275
+      },
+      "88": {
+        "filename": "SimpleAuction.code",
+        "line": 276
+      },
+      "96": {
+        "filename": "SimpleAuction.code",
+        "line": 277
+      },
+      "112": {
+        "filename": "SimpleAuction.code",
+        "line": 278
+      },
+      "128": {
+        "filename": "SimpleAuction.code",
+        "line": 279
+      },
+      "136": {
+        "filename": "SimpleAuction.code",
+        "line": 280
+      },
+      "144": {
+        "filename": "SimpleAuction.code",
+        "line": 281
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 301
+      },
+      "16": {
+        "filename": "SimpleAuction.code",
+        "line": 302
+      }
+    },
+    "f63a53aa5c65d7fc5d30d70e865069ceae2c10cc3f946d2e955bade54e6d2494": {
+      "0": {
+        "filename": "SimpleAuction.code",
+        "line": 285
+      },
+      "16": {
+        "filename": "SimpleAuction.code",
+        "line": 286
+      },
+      "24": {
+        "filename": "SimpleAuction.code",
+        "line": 287
+      },
+      "40": {
+        "filename": "SimpleAuction.code",
+        "line": 288
+      },
+      "56": {
+        "filename": "SimpleAuction.code",
+        "line": 289
+      },
+      "72": {
+        "filename": "SimpleAuction.code",
+        "line": 290
+      },
+      "80": {
+        "filename": "SimpleAuction.code",
+        "line": 291
+      },
+      "88": {
+        "filename": "SimpleAuction.code",
+        "line": 292
+      },
+      "104": {
+        "filename": "SimpleAuction.code",
+        "line": 293
+      },
+      "120": {
+        "filename": "SimpleAuction.code",
+        "line": 294
+      },
+      "128": {
+        "filename": "SimpleAuction.code",
+        "line": 295
+      },
+      "144": {
+        "filename": "SimpleAuction.code",
+        "line": 296
+      },
+      "168": {
+        "filename": "SimpleAuction.code",
+        "line": 297
+      },
+      "176": {
+        "filename": "SimpleAuction.code",
+        "line": 298
+      },
+      "184": {
+        "filename": "SimpleAuction.code",
+        "line": 299
+      },
+      "200": {
+        "filename": "SimpleAuction.code",
+        "line": 300
+      },
+      "216": {
+        "filename": "SimpleAuction.code",
+        "line": 304
+      },
+      "224": {
+        "filename": "SimpleAuction.code",
+        "line": 305
+      },
+      "248": {
+        "filename": "SimpleAuction.code",
+        "line": 306
+      },
+      "264": {
+        "filename": "SimpleAuction.code",
+        "line": 307
+      },
+      "272": {
+        "filename": "SimpleAuction.code",
+        "line": 308
+      },
+      "288": {
+        "filename": "SimpleAuction.code",
+        "line": 312
+      },
+      "296": {
+        "filename": "SimpleAuction.code",
+        "line": 313
+      },
+      "312": {
+        "filename": "SimpleAuction.code",
+        "line": 316
+      }
+    }
+  }
+}

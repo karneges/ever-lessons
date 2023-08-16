@@ -1,0 +1,56 @@
+{
+	"ABI version": 2,
+	"version": "2.2",
+	"header": ["pubkey", "time", "expire"],
+	"functions": [
+		{
+			"name": "constructor",
+			"inputs": [
+				{"name":"_start","type":"uint32"},
+				{"name":"_end","type":"uint32"}
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "bet",
+			"inputs": [
+			],
+			"outputs": [
+			]
+		},
+		{
+			"name": "getDetails",
+			"inputs": [
+			],
+			"outputs": [
+				{"name":"_start","type":"uint32"},
+				{"name":"_end","type":"uint32"},
+				{"components":[{"name":"addr","type":"address"},{"name":"bid","type":"uint128"}],"name":"_winner","type":"tuple"}
+			]
+		}
+	],
+	"data": [
+		{"key":1,"name":"nonce","type":"uint128"}
+	],
+	"events": [
+		{
+			"name": "BidAccepted",
+			"inputs": [
+				{"name":"addr","type":"address"},
+				{"name":"bid","type":"uint128"}
+			],
+			"outputs": [
+			]
+		}
+	],
+	"fields": [
+		{"name":"_pubkey","type":"uint256"},
+		{"name":"_timestamp","type":"uint64"},
+		{"name":"_constructorFlag","type":"bool"},
+		{"name":"nonce","type":"uint128"},
+		{"name":"start","type":"uint32"},
+		{"name":"end","type":"uint32"},
+		{"components":[{"name":"addr","type":"address"},{"name":"bid","type":"uint128"}],"name":"currentWinner","type":"tuple"}
+	]
+}

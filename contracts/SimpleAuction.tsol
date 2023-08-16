@@ -1,0 +1,45 @@
+pragma ever-solidity >= 0.61.2;
+pragma AbiHeader expire;
+pragma AbiHeader pubkey;
+
+
+
+struct Winner {
+    address addr;
+    uint128 bid;
+}
+contract SimpleAuction {
+    uint128 static nonce;
+
+
+    uint32 start;
+    uint32 end;
+
+    Winner currentWinner;
+
+    event BidAccepted(address addr, uint128 bid);
+
+    constructor(uint32 _start, uint32 _end) public {
+        tvm.accept();
+        start = _start;
+        end = _end;
+    }
+
+    function bet() external {
+        require(now >= start && now <= end, 1001);
+        require(msg.value > currentWinner.bid, 1002);
+
+        if (currentWinner.addr != address(0)) {
+            currentWinner.addr.transfer(currentWinner.bid);
+        }
+
+        currentWinner = Winner(msg.sender, msg.value);
+        emit BidAccepted(msg.sender, msg.value);
+    }
+
+    function getDetails() external view returns (uint32 _start, uint32 _end, Winner _winner) {
+        _start = start;
+        _end = end;
+        _winner = currentWinner;
+    }
+}
